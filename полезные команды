@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+удаление файла с гита
+
+git rm --cached namefile
+git rm --cached -r namedir
