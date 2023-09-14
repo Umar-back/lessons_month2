@@ -33,7 +33,7 @@ class Human:            # с большой буквы
 human = Human('Umar', 16)         # экземпляры
 human1 = Human('Salli', 17)
 
-print(len(human))
+print(human)
 print(human1)
 
 # human.run()
