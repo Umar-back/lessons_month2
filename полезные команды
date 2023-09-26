@@ -1,3 +1,12 @@
+только 1 раз
+git init
+ссылка
+
+
+всегда
+git add .
+git commit -m 'comm'
+git push -u origin master
 
 
 
@@ -10,6 +19,5 @@
 
 
 удаление файла с гита
-
 git rm --cached namefile
 git rm --cached -r namedir
